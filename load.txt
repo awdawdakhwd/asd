@@ -3,4 +3,8 @@
 2.第二次提交load.txt
 3.第三次提交，更新load.txt
 
+4.第四次提交，新建克隆模拟队友：cd /d/git/asd1/asd。尝试无创建额外分支的两种合并：merge 和 rebase，这次asd1先提交吧，asd1 git push 后，GitHub才能查看asd1。
+
 5.第四次提交，主要是修改名字
+=======
+
